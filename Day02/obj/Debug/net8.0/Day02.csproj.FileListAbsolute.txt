@@ -1,0 +1,14 @@
+/Users/tobiasbednar/Developer/AdventOfCode2024/Day02/bin/Debug/net8.0/Day02
+/Users/tobiasbednar/Developer/AdventOfCode2024/Day02/bin/Debug/net8.0/Day02.deps.json
+/Users/tobiasbednar/Developer/AdventOfCode2024/Day02/bin/Debug/net8.0/Day02.runtimeconfig.json
+/Users/tobiasbednar/Developer/AdventOfCode2024/Day02/bin/Debug/net8.0/Day02.dll
+/Users/tobiasbednar/Developer/AdventOfCode2024/Day02/bin/Debug/net8.0/Day02.pdb
+/Users/tobiasbednar/Developer/AdventOfCode2024/Day02/obj/Debug/net8.0/Day02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tobiasbednar/Developer/AdventOfCode2024/Day02/obj/Debug/net8.0/Day02.AssemblyInfoInputs.cache
+/Users/tobiasbednar/Developer/AdventOfCode2024/Day02/obj/Debug/net8.0/Day02.AssemblyInfo.cs
+/Users/tobiasbednar/Developer/AdventOfCode2024/Day02/obj/Debug/net8.0/Day02.csproj.CoreCompileInputs.cache
+/Users/tobiasbednar/Developer/AdventOfCode2024/Day02/obj/Debug/net8.0/Day02.dll
+/Users/tobiasbednar/Developer/AdventOfCode2024/Day02/obj/Debug/net8.0/refint/Day02.dll
+/Users/tobiasbednar/Developer/AdventOfCode2024/Day02/obj/Debug/net8.0/Day02.pdb
+/Users/tobiasbednar/Developer/AdventOfCode2024/Day02/obj/Debug/net8.0/Day02.genruntimeconfig.cache
+/Users/tobiasbednar/Developer/AdventOfCode2024/Day02/obj/Debug/net8.0/ref/Day02.dll
